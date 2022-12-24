@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkmk11" alt="kkmk11" /></a> </p>
 
-<p dir="auto"><a href="https://www.linkedin.com/in/maheshkumar-kottakota-18a346194/" rel="nofollow" data-canonical-src="https://www.linkedin.com/in/maheshkumar-kottakota-18a346194/?label=MY LinkedIN&amp;down_color=green&amp;down_message=in&amp;style=for-the-badge&amp;url="https://www.linkedin.com/in/maheshkumar-kottakota-18a346194/" style="max-width: 100%;"></a></p>
 
 - 🔭 I’m currently working on **Fullstack based Web applications**
 
