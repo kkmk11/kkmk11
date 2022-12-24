@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KOTTAKOTA MAHESH KUMAR</h1>
-<h3 align="center">I am a student majoring in Computer Science Engineering. Looking for new opportunities to work and contribute to new projects.</h3>
+<h3 align="center">I am a student majoring in Computer Science Engineering. Looking forward for new opportunities to work and contribute to new projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmk11&label=Profile%20views&color=0e75b6&style=flat" alt="kkmk11" /> </p>
 
