@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kkmk11](https://github.com/kkmk11)
+- 👨‍💻 All my projects are available at [https://github.com/kkmk11](https://github.com/kkmk11)
 
 - 💬 Ask me about **C,C++,JAVA,PYTHON,DATA STRUCTURES,OOPS,HTML,CSS,BOOTSTRAP,JAVASCRIPT ETC,.**
 
