@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm KOTTAKOTA MAHESH KUMAR</h1>
 <h3 align="center">I am a student majoring in Computer Science Engineering. Looking forward for new opportunities to work and contribute to new projects.</h3>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/03af0453517dd5634d54d61aab74e3750d4737dea3b0c20ee26a6609ea663110/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6a796f7468696b756d61723033" alt="kkmk11" data-canonical-src="https://github-profile-trophy.vercel.app/?username=kkmk11" style="max-width: 100%;"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmk11&label=Profile%20views&color=0e75b6&style=flat" alt="kkmk11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkmk11" alt="kkmk11" /></a> </p>
