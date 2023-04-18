@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkmk11" alt="kkmk11" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/maheshk94802670" target="blank"><img src="https://img.shields.io/twitter/follow/maheshk94802670?logo=twitter&style=for-the-badge" alt="maheshk94802670" /></a> </p>
 
 - 🔭 I’m currently working on **Fullstack based Web applications**
 
